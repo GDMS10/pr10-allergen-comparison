@@ -1,0 +1,11 @@
+protein_a,source_a,protein_b,source_b,seq_identity_pct,rmsd_angstrom,residues_aligned
+Bet v 1,birch,Mal d 1,apple,56.3,2.11,158
+Bet v 1,birch,Api g 1,celery,42.5,1.49,153
+Bet v 1,birch,Pru av 1,cherry,59.1,2.0,159
+Bet v 1,birch,Dau c 1,carrot,37.5,1.61,152
+Mal d 1,apple,Api g 1,celery,39.2,2.64,152
+Mal d 1,apple,Pru av 1,cherry,84.8,2.11,158
+Mal d 1,apple,Dau c 1,carrot,36.8,2.6,151
+Api g 1,celery,Pru av 1,cherry,41.8,2.29,153
+Api g 1,celery,Dau c 1,carrot,80.3,0.69,152
+Pru av 1,cherry,Dau c 1,carrot,38.8,2.44,152

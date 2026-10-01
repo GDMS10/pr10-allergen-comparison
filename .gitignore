@@ -1,0 +1,25 @@
+# Python environment (446 MB of installed libraries — never commit this)
+.venv/
+__pycache__/
+*.pyc
+
+# Editor / OS
+.vscode/
+.DS_Store
+.impeccable/
+
+# Backups and scratch
+*.backup.ipynb
+
+# pandas tutorial leftovers, not part of this project
+Practice.ipynb
+customers-100.csv
+main.py
+
+# personal planning notes, kept local
+PLAN.md
+
+# learning notes and in-progress work, kept local
+OBJECTIVES.md
+exploration.ipynb
+epitope_analysis.ipynb
