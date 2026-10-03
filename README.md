@@ -4,6 +4,10 @@ Does sequence similarity predict structural similarity among PR-10 plant allerge
 
 ![Sequence identity vs RMSD](identity_vs_rmsd.png)
 
+Extended analysis (86 proteins, 3616 pairs):
+
+![Sequence identity vs RMSD, family scale](identity_vs_rmsd_family.png)
+
 ## Background
 
 People with birch pollen allergy often react to raw apple, cherry, celery and carrot. The
@@ -212,6 +216,7 @@ variable surface is the part that needed to vary.
 | `pipeline.py` | dataset construction: proteins, epitope, pairs, features |
 | `build_dataset.py` | writes `pairs.csv` |
 | `model.py` | sequence-only model + leave-one-organism-out CV |
+| `make_figure.py` | produces `identity_vs_rmsd_family.png` |
 | `epitope_analysis.py` | the epitope conservation test |
 | `test_pipeline.py` | assertions for the geometry and dataset code |
 
@@ -230,7 +235,7 @@ Then run `data_creation.ipynb` followed by `figure.ipynb`.
 Extended analysis:
 
 ```
-pip install biopython numpy pandas scipy scikit-learn
+pip install biopython numpy pandas scipy scikit-learn matplotlib seaborn
 
 python3 fetch_data.py        # ~1 min: 133 structures into pdb_all/ (gitignored)
 python3 test_pipeline.py     # ~1 min: assertions, including the original RMSD values
@@ -238,6 +243,7 @@ python3 build_dataset.py     # ~20 s: pairs.csv, 3616 pairs
 python3 model.py             # ~40 s: correlations and CV scores
 python3 model.py --full      # ~15 min: permutation test and feature importances
 python3 epitope_analysis.py  # ~1 min: the epitope conservation test
+python3 make_figure.py       # ~30 s: identity_vs_rmsd_family.png
 ```
 
 `pdb_all/` holds 140 MB of RCSB coordinates and is gitignored; `fetch_data.py` rebuilds it.
