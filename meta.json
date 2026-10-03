@@ -1,0 +1,2759 @@
+{
+ "1B6F": {
+  "title": "BIRCH POLLEN ALLERGEN BET V 1",
+  "method": [
+   "SOLUTION NMR"
+  ],
+  "res": null,
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "PROTEIN (MAJOR POLLEN ALLERGEN BET V 1-A)",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKELGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "1BTV": {
+  "title": "STRUCTURE OF BET V 1, NMR, 20 STRUCTURES",
+  "method": [
+   "SOLUTION NMR"
+  ],
+  "res": null,
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "BET V 1",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGLPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "1BV1": {
+  "title": "BIRCH POLLEN ALLERGEN BET V 1",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.0
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "BET V 1",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGLPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "1E09": {
+  "title": "Solution Structure of the Major Cherry Allergen Pru av 1",
+  "method": [
+   "SOLUTION NMR"
+  ],
+  "res": null,
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "PRU AV 1",
+    "seq": "GVFTYESEFTSEIPPPRLFKAFVLDADNLVPKIAPQAIKHSEILEGDGGPGTIKKITFGEGSQYGYVKHKIDSIDKENYSYSYTLIEGDALGDTLEKISYETKLVASPSGGSIIKSTSHYHTKGNVEIKEEHVKAGKEKASNLFKLIETYLKGHPDAYN",
+    "org": "Prunus avium",
+    "uniprot": [
+     "O24248"
+    ]
+   }
+  ]
+ },
+ "1FM4": {
+  "title": "CRYSTAL STRUCTURE OF THE BIRCH POLLEN ALLERGEN BET V 1L",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.97
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-L",
+    "seq": "GVFNYETEATSVIPAARMFKAFILDGDKLVPKVAPQAISSVENIEGNGGPGTIKKINFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPVGDTLEKISNEIKIVATPDGGCVLKISNKYHTKGNHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P43185"
+    ]
+   }
+  ]
+ },
+ "1FSK": {
+  "title": "COMPLEX FORMATION BETWEEN A FAB FRAGMENT OF A MONOCLONAL IGG ANTIBODY AND THE MAJOR ALLERGEN FROM BIRCH POLLEN BET V 1",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.9
+  ],
+  "nmodels": 4,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-A",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGLPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "1H2O": {
+  "title": "SOLUTION STRUCTURE OF THE MAJOR CHERRY ALLERGEN PRU AV 1 MUTANT E45W",
+  "method": [
+   "SOLUTION NMR"
+  ],
+  "res": null,
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR ALLERGEN PRU AV 1",
+    "seq": "GVFTYESEFTSEIPPPRLFKAFVLDADNLVPKIAPQAIKHSEILWGDGGPGTIKKITFGEGSQYGYVKHKIDSIDKENYSYSYTLIEGDALGDTLEKISYETKLVASPSGGSIIKSTSHYHTKGNVEIKEEHVKAGKEKASNLFKLIETYLKGHPDAYN",
+    "org": "Prunus avium",
+    "uniprot": [
+     "O24248"
+    ]
+   }
+  ]
+ },
+ "1ICX": {
+  "title": "CRYSTAL STRUCTURE OF PATHOGENESIS-RELATED PROTEIN LLPR10.1A FROM YELLOW LUPINE",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.95
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "PROTEIN LLR18A",
+    "seq": "GIFAFENEQSSTVAPAKLYKALTKDSDEIVPKVIEPIQSVEIVEGNGGPGTIKKIIAIHDGHTSFVLHKLDAIDEANLTYNYSIIGGEGLDESLEKISYESKILPGPDGGSIGKINVKFHTKGDVLSETVRDQAKFKGLGLFKAIEGYVLAHPDY",
+    "org": "Lupinus luteus",
+    "uniprot": [
+     "P52778"
+    ]
+   }
+  ]
+ },
+ "1IFV": {
+  "title": "CRYSTAL STRUCTURE OF PATHOGENESIS-RELATED PROTEIN LLPR10.1B FROM YELLOW LUPINE",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.25
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "PROTEIN LLR18B",
+    "seq": "GVFAFEDEHPSAVAQAKLFKALTKDSDDIIPKVIEQIQSVEIVEGNGGPGTVKKITASHGGHTSYVLHKIDAIDEASFEYNYSIVGGTGLDESLEKITFESKLLSGPDGGSIGKIKVKFHTKGDVLSDAVREEAKARGTGLFKAVEGYVLANPNY",
+    "org": "Lupinus luteus",
+    "uniprot": [
+     "P52779"
+    ]
+   }
+  ]
+ },
+ "1LLT": {
+  "title": "BIRCH POLLEN ALLERGEN BET V 1 MUTANT E45S",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   3.1
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "POLLEN ALLERGEN BET V 1",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENISGNGGPGTIKKISFPEGLPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "1QMR": {
+  "title": "BIRCH POLLEN ALLERGEN BET V 1 MUTANT N28T, K32Q, E45S, P108G",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.15
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-A",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDTLFPQVAPQAISSVENISGNGGPGTIKKISFPEGLPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATGDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "1TW0": {
+  "title": "Native crystal structure of SPE16",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.2
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "pathogenesis-related class 10 protein SPE-16",
+    "seq": "GVFVFRDETSSSVAPAKLYKALTKDSDTIAQKIDGPIQSIELVEGNGGVGTIKKITANEGDKTSFVLQKVDAIDEANLGYDYSIVGGTGLPESLEKLSFETKVVAGSGGGSISKVTLKFHTKGDAPLSDAVRDDALAKGAGFFKAIEGYVLANPAEY",
+    "org": "Pachyrhizus erosus",
+    "uniprot": [
+     "Q6T6J0"
+    ]
+   }
+  ]
+ },
+ "1TXC": {
+  "title": "Complex crystal structure of SPE16 with ANS",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.3
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "pathogenesis-related class 10 protein SPE-16",
+    "seq": "GVFVFRDETSSSVAPAKLYKALTKDSDTIAQKIDGPIQSIELVEGNGGVGTIKKITANEGDKTSFVLQKVDAIDEANLGYDYSIVGGTGLPESLEKLSFETKVVAGSGGGSISKVTLKFHTKGDAPLSDAVRDDALAKGAGFFKAIEGYVLANPAEY",
+    "org": "Pachyrhizus erosus",
+    "uniprot": [
+     "Q6T6J0"
+    ]
+   }
+  ]
+ },
+ "1VJH": {
+  "title": "Crystal structure of gene product of At1g24000 from Arabidopsis thaliana",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.1
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Bet v I allergen family",
+    "seq": "STLKGALSVKFDVKCPADKFFSAFVEDTNRPFEKNGKTEIEAVDLVKKTMTIQMSGSEIQKYFKTLKGSIAVTPIGVGDGSHVVWTFHFEKVHKDIDDPHSIIDESVKYFKKLDEAILNFKE",
+    "org": "Arabidopsis thaliana",
+    "uniprot": [
+     "P0C0B0"
+    ]
+   }
+  ]
+ },
+ "1XDF": {
+  "title": "Crystal structure of pathogenesis-related protein LlPR-10.2A from yellow lupine",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.9
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "PR10.2A",
+    "seq": "GVFTFEDESTSTIAPARLYKALVKDADAIIPKAVEAIQSIETVEGNGGPGTIKKLTLIEGGETKYVLHKIEAVDEANLRYNYSIVGGVGLPDTIEKISFETKLVEGANGGSIGKVTIKIETKGDAQPNEEEGKAAKARGDAFFKAIENYLSAHPEYN",
+    "org": "Lupinus luteus",
+    "uniprot": [
+     "Q9LLQ3"
+    ]
+   }
+  ]
+ },
+ "2BK0": {
+  "title": "Crystal structure of the major celery allergen Api G 1",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.9
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR ALLERGEN API G 1",
+    "seq": "MGVQTHVLELTSSVSAEKIFQGFVIDVDTVLPKAAPGAYKSVEIKGDGGPGTLKIITLPDGGPITTMTLRIDGVNKEALTFDYSVIDGDILLGFIESIENHVVLVPTADGGSICKTTAIFHTKGDAVVPEENIKYANEQNTALFKALEAYLIAN",
+    "org": "Apium graveolens",
+    "uniprot": [
+     "P49372"
+    ]
+   }
+  ]
+ },
+ "2FLH": {
+  "title": "Crystal structure of cytokinin-specific binding protein from mung bean in complex with cytokinin",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.2
+  ],
+  "nmodels": 4,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "cytokinin-specific binding protein",
+    "seq": "MVKEFNTQTELSVRLEALWAVLSKDFITVVPKVLPHIVKDVQLIEGDGGVGTILIFNFLPEVSPSYQREEITEFDESSHEIGLQVIEGGYLSQGLSYYKTTFKLSEIEEDKTLVNVKISYDHDSDIEEKVTPTKTSQSTLMYLRRLERYLSNGSA",
+    "org": "Vigna radiata",
+    "uniprot": [
+     "A0A1S3THR8"
+    ]
+   }
+  ]
+ },
+ "2I9Y": {
+  "title": "Solution structure of Arabidopsis thaliana protein At1g70830, a member of the major latex protein family",
+  "method": [
+   "SOLUTION NMR"
+  ],
+  "res": null,
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "major latex protein-like protein 28 or MLP-like protein 28",
+    "seq": "GHHHHHHLETEASSLVGKLETDVEIKASADKFHHMFAGKPHHVSKASPGNIQGCDLHEGDWGTVGSIVFWNYVHDGEAKVAKERIEAVEPDKNLITFRVIEGDLMKEYKSFLLTIQVTPKPGGPGSIVHWHLEYEKISEEVAHPETLLQFCVEVSKEIDEHLLAEE",
+    "org": "Arabidopsis thaliana",
+    "uniprot": [
+     "Q9SSK9"
+    ]
+   }
+  ]
+ },
+ "2K7H": {
+  "title": "NMR solution structure of soybean allergen Gly m 4",
+  "method": [
+   "SOLUTION NMR"
+  ],
+  "res": null,
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Stress-induced protein SAM22",
+    "seq": "GVFTFEDEINSPVAPATLYKALVTDADNVIPKALDSFKSVENVEGNGGPGTIKKITFLEDGETKFVLHKIESIDEANLGYSYSVVGGAALPDTAEKITFDSKLVAGPNGGSAGKLTVKYETKGDAEPNQDELKTGKAKADALFKAIEAYLLAHPDYN",
+    "org": "Glycine max",
+    "uniprot": [
+     "P26987"
+    ]
+   }
+  ]
+ },
+ "2LPX": {
+  "title": "Solution Structure of Strawberry Allergen Fra a 1e",
+  "method": [
+   "SOLUTION NMR"
+  ],
+  "res": null,
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major strawberry allergen Fra a 1-E",
+    "seq": "MGVYTYENEFTSDIPAPKLFKAFVLDADNLIPKIAPQAVKCAEILEGDGGPGTIKKITFGEGSHYGYVKHKIHSIDKVNHTYSYSLIEGDALSENIEKIDYETKLVSAPHGGTIIKTTSKYHTKGDVEIKEEHVKAGKEKAAHLFKLIEGYLKDHPSEYNGSRSHHHHHH",
+    "org": "Fragaria x ananassa",
+    "uniprot": [
+     "Q256S2"
+    ]
+   }
+  ]
+ },
+ "2Q3Q": {
+  "title": "Ensemble refinement of the protein crystal structure of At1g24000 from Arabidopsis thaliana",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.1
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Uncharacterized protein At1g24000",
+    "seq": "STLKGALSVKFDVKCPADKFFSAFVEDTNRPFEKNGKTEIEAVDLVKKTMTIQMSGSEIQKYFKTLKGSIAVTPIGVGDGSHVVWTFHFEKVHKDIDDPHSIIDESVKYFKKLDEAILNFKE",
+    "org": "Arabidopsis thaliana",
+    "uniprot": [
+     "P0C0B0"
+    ]
+   }
+  ]
+ },
+ "2QIM": {
+  "title": "Crystal Structure of Pathogenesis-related Protein LlPR-10.2B from yellow lupine in complex with Cytokinin",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.35
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "PR10.2B",
+    "seq": "MGVFTFQDEYTSTIAPAKLYKALVTDADIIIPKAVETIQSVEIVEGNGGPGTIKKLTFIEGGESKYVLHKIEAIDEANLGYNYSIVGGVGLPDTIEKISFETKLVEGANGGSIGKVTIKIETKGDAQPNEEEGKAAKARGDAFFKAIESYLSAHPDYN",
+    "org": "Lupinus luteus",
+    "uniprot": [
+     "Q9LLQ2"
+    ]
+   }
+  ]
+ },
+ "2VNE": {
+  "title": "The X-ray structure of Norcoclaurine synthase from Thalictrum flavum",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.72
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "S-NORCOCLAURINE SYNTHASE",
+    "seq": "MTGSQKLILTGRPFLHHQGIINQVSTVTKVIHHELEVAASADDIWTVYSWPGLAKHLPDLLPGAFEKLEIIGDGGVGTILDMTFVPGEFPHEYKEKFILVDNEHRLKKVQMIEGGYLDLGVTYYMDTIHVVPTGKDSCVIKSSTEYHVKPEFVKIVEPLITTGPLAAMADAISKLVLEHKSKSNSDEIEAAIITVHHHHHH",
+    "org": "Thalictrum flavum",
+    "uniprot": [
+     "Q67A25"
+    ]
+   }
+  ]
+ },
+ "2VQ5": {
+  "title": "X-ray structure of Norcoclaurine synthase from Thalictrum flavum in complex with dopamine and hydroxybenzaldehyde",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.09
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "S-NORCOCLAURINE SYNTHASE",
+    "seq": "MTGSQKLILTGRPFLHHQGIINQVSTVTKVIHHELEVAASADDIWTVYSWPGLAKHLPDLLPGAFEKLEIIGDGGVGTILDMTFVPGEFPHEYKEKFILVDNEHRLKKVQMIEGGYLDLGVTYYMDTIHVVPTGKDSCVIKSSTEYHVKPEFVKIVEPLITTGPLAAMADAISKLVLEHKSKSNSDEIEAAIITVHHHHHH",
+    "org": "Thalictrum flavum",
+    "uniprot": [
+     "Q67A25"
+    ]
+   }
+  ]
+ },
+ "2WQL": {
+  "title": "CRYSTAL STRUCTURE OF THE MAJOR CARROT ALLERGEN DAU C 1",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.7
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR ALLERGEN DAU C 1",
+    "seq": "MGAQSHSLEITSSVSAEKIFSGIVLDVDTVIPKAATGAYKSVEVKGDGGAGTVRIITLPEGSPITTMTVRTDAVNKEALSYDSTVIDGDILLGFIESIETHMVVVPTADGGSITKTTAIFHTKGDAVVPEENIKFADAQNTALFKAIEAYLIAN",
+    "org": "Daucus carota",
+    "uniprot": [
+     "O04298"
+    ]
+   }
+  ]
+ },
+ "3C0V": {
+  "title": "Crystal structure of cytokinin-specific binding protein in complex with cytokinin and Ta6Br12",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.8
+  ],
+  "nmodels": 7,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Cytokinin-specific binding protein",
+    "seq": "MVKEFNTQTELSVRLEALWAVLSKDFITVVPKVLPHIVKDVQLIEGDGGVGTILIFNFLPEVSPSYQREEITEFDESSHEIGLQVIEGGYLSQGLSYYKTTFKLSEIEEDKTLVNVKISYDHDSDIEEKVTPTKTSQSTLMYLRRLERYLSNGSA",
+    "org": "Vigna radiata",
+    "uniprot": [
+     "A0A1S3THR8"
+    ]
+   }
+  ]
+ },
+ "3E85": {
+  "title": "Crystal Structure of Pathogenesis-related Protein LlPR-10.2B from yellow lupine in complex with Diphenylurea",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.95
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "PR10.2B",
+    "seq": "MGVFTFQDEYTSTIAPAKLYKALVTDADIIIPKAVETIQSVEIVEGNGGPGTIKKLTFIEGGESKYVLHKIEAIDEANLGYNYSIVGGVGLPDTIEKISFETKLVEGANGGSIGKVTIKIETKGDAQPNEEEGKAAKARGDAFFKAIESYLSAHPDYN",
+    "org": "Lupinus luteus",
+    "uniprot": [
+     "Q9LLQ2"
+    ]
+   }
+  ]
+ },
+ "3IE5": {
+  "title": "Crystal structure of Hyp-1 protein from Hypericum perforatum (St John's wort) involved in hypericin biosynthesis",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.688
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Phenolic oxidative coupling protein Hyp-1",
+    "seq": "GIDPFTMAAYTIVKEEESPIAPHRLFKALVLERHQVLVKAQPHVFKSGEIIEGDGGVGTVTKITFVDGHPLTYMLHKFDEIDAANFYCKYTLFEGDVLRDNIEKVVYEVKLEAVGGGSKGKITVTYHPKPGCTVNEEEVKIGEKKAYEFYKQVEEYLAANPEVFA",
+    "org": "Hypericum perforatum",
+    "uniprot": [
+     "Q8H1L1"
+    ]
+   }
+  ]
+ },
+ "4A80": {
+  "title": "Crystal Structure of Major Birch Pollen Allergen Bet v 1 a in complex with 8-Anilinonaphthalene-1-sulfonate (ANS)",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.96
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-A",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "4A81": {
+  "title": "Crystal Structure of Major Birch Pollen Allergen Bet v 1 a in ternary complex with 8-Anilinonaphthalene-1-sulfonate (ANS) and deoxycholic acid",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.05
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-A",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "4A83": {
+  "title": "Crystal Structure of Major Birch Pollen Allergen Bet v 1 a in complex with deoxycholate.",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.54
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-A",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "4A84": {
+  "title": "Crystal Structure of Major Birch Pollen Allergen Bet v 1 a F30V mutant in complex with deoxycholate.",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.5
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-A",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLVPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "4A85": {
+  "title": "Crystal Structure of Major Birch Pollen Allergen Bet v 1 a in complex with kinetin.",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.4
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-A",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "4A86": {
+  "title": "Crystal Structure of Major Birch Pollen Allergen Bet v 1 a in ternary complex with kinetin and 8-Anilinonaphthalene-1-sulfonate (ANS)",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.59
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-A",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "4A87": {
+  "title": "Crystal Structure of Major Birch Pollen Allergen Bet v 1 a in complex with naringenin.",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.24
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-A",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "4A88": {
+  "title": "Crystal Structure of native Major Birch Pollen Allergen Bet v 1 isoform a",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.51
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-A",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "4A8G": {
+  "title": "Crystal Structure of Major Birch Pollen Allergen Bet v 1 a in complex with dimethylbenzylammonium propane sulfonate",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.1
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-A",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "4A8U": {
+  "title": "Crystal Structure of native Birch Pollen Allergen Bet v 1 isoform j",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.16
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-J",
+    "seq": "GVFNYETEATSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYSYSVIEGGPVGDTLEKISNEIKIVATPNGGSILKINNKYHTKGDHEVKAEQIKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P43183"
+    ]
+   }
+  ]
+ },
+ "4A8V": {
+  "title": "Crystal Structure of Birch Pollen Allergen Bet v 1 isoform j in complex with 8-Anilinonaphthalene-1-sulfonate (ANS)",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.23
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-J",
+    "seq": "GVFNYETEATSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYSYSVIEGGPVGDTLEKISNEIKIVATPNGGSILKINNKYHTKGDHEVKAEQIKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P43183"
+    ]
+   }
+  ]
+ },
+ "4B9R": {
+  "title": "Crystal structure of the Major Birch Pollen Allergen Bet v 1.0101 (isoform a) nitrated in vitro with tetranitromethan.",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.76
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-A",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "4BK6": {
+  "title": "Crystal Structure of a dimeric variant of Bet v 1",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.63
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-A",
+    "seq": "GVFNCETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "4BK7": {
+  "title": "Crystal Structure of a variant of the Major Birch Pollen Allergen Bet v 1",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.14
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-A",
+    "seq": "GVFNFETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "4BKC": {
+  "title": "Crystal Structure of a unusually linked dimeric variant of Bet v 1",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.73
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-A",
+    "seq": "GVFNCETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "4BKD": {
+  "title": "Crystal Structure of an unusually linked dimeric variant of Bet v 1 (b)",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.17
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-A",
+    "seq": "GVFNCETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "4BTZ": {
+  "title": "Crystal Structure of peroxinitrite treated Major Birch Pollen Allergen Bet v 1.0101 (isoform a)",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.47
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR POLLEN ALLERGEN BET V 1-A",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "4C94": {
+  "title": "Crystal Structure of the Strawberry Pathogenesis-Related 10 (PR-10) Fra a 3 protein in complex with Catechin",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   3.0
+  ],
+  "nmodels": 5,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "FRA A 3 ALLERGEN",
+    "seq": "AMAGVFTYESEFTSVIPPPKLFKAFVLDADNLIPKIAPQAVKSAEIIEGDGGVGTIKKIHLGEGSEYSYVKHKIDGIDKDNFVYSYSIIEGDAIGDKIEKISYEIKLVASGGGSIIKSTSHYHTKGEVEIKEEHVKAGKERAAGLFKIIENHLLAHPEEYN",
+    "org": "Fragaria x ananassa",
+    "uniprot": [
+     "D0E0C7"
+    ]
+   }
+  ]
+ },
+ "4C9C": {
+  "title": "Crystal Structure of the Strawberry Pathogenesis-Related 10 (PR-10) Fra a 1E protein (Form A)",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.2
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR STRAWBERRY ALLERGEN FRA A 1-E",
+    "seq": "AMAGVYTYENEFTSDIPAPKLFKAFVLDADNLIPKIAPQAVKCAEILEGDGGPGTIKKITFGEGSHYGYVKHKIHSIDKVNHTYSYSLIEGDALSENIEKIDYETKLVSAPHGGTIIKTTSKYHTKGDVEIKEEHVKAGKEKAAHLFKLIEGYLKDHPSEYN",
+    "org": "Fragaria x ananassa",
+    "uniprot": [
+     "Q256S2"
+    ]
+   }
+  ]
+ },
+ "4C9I": {
+  "title": "Crystal Structure of the Strawberry Pathogenesis-Related 10 (PR-10) Fra a 1E protein (Form B)",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   3.1
+  ],
+  "nmodels": 6,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MAJOR STRAWBERRY ALLERGEN FRA A 1-E",
+    "seq": "AMAGVYTYENEFTSDIPAPKLFKAFVLDADNLIPKIAPQAVKCAEILEGDGGPGTIKKITFGEGSHYGYVKHKIHSIDKVNHTYSYSLIEGDALSENIEKIDYETKLVSAPHGGTIIKTTSKYHTKGDVEIKEEHVKAGKEKAAHLFKLIEGYLKDHPSEYN",
+    "org": "Fragaria x ananassa",
+    "uniprot": [
+     "Q256S2"
+    ]
+   }
+  ]
+ },
+ "4GY9": {
+  "title": "Crystal Structure of Medicago truncatula Nodulin 13 (MtN13) in complex with N6-isopentenyladenine (2iP)",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.04
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MtN13 protein",
+    "seq": "IDPFTMGVITSESEYVSSLSAEKLYRGIVEDGNIIYPKALPRFIEKAETLEGDGGPGTIKKLTFVGDFGSTKQHIDMVDRENCAYTYSVYEGIALSDQPLEKIVFEFKLVPTPEEGCIVKSTTKYYTKGDDIELSKDYLEAGIERFEGFTKAVESFLLANPDYNKDSN",
+    "org": "Medicago truncatula",
+    "uniprot": [
+     "P93330"
+    ]
+   }
+  ]
+ },
+ "4IGV": {
+  "title": "Crystal structure of kirola (Act d 11)",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.5
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Kirola",
+    "seq": "MDLSGKMVKQVEILSDGIVFYEIFRYRLYLISEMSPVNIQGVDLLEGNWGTVGSVIFFKYTIDGKEKTAKDIVEAIDEETKSVTFKIVEGDLMELYKTFIIIVQVDTKGEHNSVTWTFHYEKLKEDVEEPNTLMNFCIEITKDIETYHLK",
+    "org": "Actinidia deliciosa",
+    "uniprot": [
+     "P85524"
+    ]
+   }
+  ]
+ },
+ "4IGW": {
+  "title": "Crystal structure of kirola (Act d 11) in P6122 space group",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.55
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Kirola",
+    "seq": "MDLSGKMVKQVEILSDGIVFYEIFRYRLYLISEMSPVNIQGVDLLEGNWGTVGSVIFFKYTIDGKEKTAKDIVEAIDEETKSVTFKIVEGDLMELYKTFIIIVQVDTKGEHNSVTWTFHYEKLKEDVEEPNTLMNFCIEITKDIETYHLK",
+    "org": "Actinidia deliciosa",
+    "uniprot": [
+     "P85524"
+    ]
+   }
+  ]
+ },
+ "4IGX": {
+  "title": "Crystal structure of kirola (Act d 11) - triclinic form",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.35
+  ],
+  "nmodels": 4,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Kirola",
+    "seq": "MDLSGKMVKQVEILSDGIVFYEIFRYRLYLISEMSPVNIQGVDLLEGNWGTVGSVIFFKYTIDGKEKTAKDIVEAIDEETKSVTFKIVEGDLMELYKTFIIIVQVDTKGEHNSVTWTFHYEKLKEDVEEPNTLMNFCIEITKDIETYHLK",
+    "org": "Actinidia deliciosa",
+    "uniprot": [
+     "P85524"
+    ]
+   }
+  ]
+ },
+ "4IGY": {
+  "title": "Crystal structure of kirola (Act d 11) - triclinic form",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.92
+  ],
+  "nmodels": 4,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Kirola",
+    "seq": "MDLSGKMVKQVEILSDGIVFYEIFRYRLYLISEMSPVNIQGVDLLEGNWGTVGSVIFFKYTIDGKEKTAKDIVEAIDEETKSVTFKIVEGDLMELYKTFIIIVQVDTKGEHNSVTWTFHYEKLKEDVEEPNTLMNFCIEITKDIETYHLK",
+    "org": "Actinidia deliciosa",
+    "uniprot": [
+     "P85524"
+    ]
+   }
+  ]
+ },
+ "4IH0": {
+  "title": "Crystal structure of kirola (Act d 11) from crystal soaked with serotonin",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.75
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Kirola",
+    "seq": "MDLSGKMVKQVEILSDGIVFYEIFRYRLYLISEMSPVNIQGVDLLEGNWGTVGSVIFFKYTIDGKEKTAKDIVEAIDEETKSVTFKIVEGDLMELYKTFIIIVQVDTKGEHNSVTWTFHYEKLKEDVEEPNTLMNFCIEITKDIETYHLK",
+    "org": "Actinidia deliciosa",
+    "uniprot": [
+     "P85524"
+    ]
+   }
+  ]
+ },
+ "4IH2": {
+  "title": "Crystal structure of kirola (Act d 11) from crystal soaked with 2-aminopurine",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.0
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Kirola",
+    "seq": "MDLSGKMVKQVEILSDGIVFYEIFRYRLYLISEMSPVNIQGVDLLEGNWGTVGSVIFFKYTIDGKEKTAKDIVEAIDEETKSVTFKIVEGDLMELYKTFIIIVQVDTKGEHNSVTWTFHYEKLKEDVEEPNTLMNFCIEITKDIETYHLK",
+    "org": "Actinidia deliciosa",
+    "uniprot": [
+     "P85524"
+    ]
+   }
+  ]
+ },
+ "4IHR": {
+  "title": "Crystal structure of recombinant kirola (Act d 11)",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.6
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Kirola",
+    "seq": "SNAMDLSGKMVKQVEILSDGIVFYEIFRYRLYLISEMSPVNIQGVDLLEGNWGTVGSVIFFKYTIDGKEKTAKDIVEAIDEETKSVTFKIVEGDLMELYKTFIIIVQVDTKGEHNSVTWTFHYEKLKEDVEEPNTLMNFCIEITKDIETYHLK",
+    "org": "Actinidia deliciosa",
+    "uniprot": [
+     "P85524"
+    ]
+   }
+  ]
+ },
+ "4JHG": {
+  "title": "Crystal Structure of Medicago truncatula Nodulin 13 (MtN13) in complex with trans-zeatin",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.85
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MtN13 protein",
+    "seq": "IDPFTMGVITSESEYVSSLSAEKLYRGIVEDGNIIYPKALPRFIEKAETLEGDGGPGTIKKLTFVGDFGSTKQHIDMVDRENCAYTYSVYEGIALSDQPLEKIVFEFKLVPTPEEGCIVKSTTKYYTKGDDIELSKDYLEAGIERFEGFTKAVESFLLANPDYNKDSN",
+    "org": "Medicago truncatula",
+    "uniprot": [
+     "P93330"
+    ]
+   }
+  ]
+ },
+ "4JHH": {
+  "title": "Crystal Structure of Medicago truncatula Nodulin 13 (MtN13) in complex with kinetin",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.2
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MtN13 protein",
+    "seq": "IDPFTMGVITSESEYVSSLSAEKLYRGIVEDGNIIYPKALPRFIEKAETLEGDGGPGTIKKLTFVGDFGSTKQHIDMVDRENCAYTYSVYEGIALSDQPLEKIVFEFKLVPTPEEGCIVKSTTKYYTKGDDIELSKDYLEAGIERFEGFTKAVESFLLANPDYNKDSN",
+    "org": "Medicago truncatula",
+    "uniprot": [
+     "P93330"
+    ]
+   }
+  ]
+ },
+ "4JHI": {
+  "title": "Crystal Structure of Medicago truncatula Nodulin 13 (MtN13) in complex with N6-benzyladenine",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.6
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "MtN13 protein",
+    "seq": "DPFTMGVITSESEYVSSLSAEKLYRGIVEDGNIIYPKALPRFIEKAETLEGDGGPGTIKKLTFVGDFGSTKQHIDMVDRENCAYTYSVYEGIALSDQPLEKIVFEFKLVPTPEEGCIVKSTTKYYTKGDDIELSKDYLEAGIERFEGFTKAVESFLLANPDYNKDSN",
+    "org": "Medicago truncatula",
+    "uniprot": [
+     "P93330"
+    ]
+   }
+  ]
+ },
+ "4M9B": {
+  "title": "Crystal structure of Apo Ara h 8",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.6
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen",
+    "seq": "MGVFTFEDEITSTVPPAKLYNAMKDADSITPKIIDDVKSVEIVEGNGGPGTIKKLTIVEDGETKFILHKVESIDEANYAYNYSVVGGVALPPTAEKITFETKLVEGPNGGSIGKLTLKYHTKGDAKPDEEELKKGKAKGEGLFRAIEGYVLANPTQY",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "Q6VT83"
+    ]
+   }
+  ]
+ },
+ "4M9W": {
+  "title": "Crystal Structure of Ara h 8 with MES bound",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.95
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen",
+    "seq": "MGVFTFEDEITSTVPPAKLYNAMKDADSITPKIIDDVKSVEIVEGNGGPGTIKKLTIVEDGETKFILHKVESIDEANYAYNYSVVGGVALPPTAEKITFETKLVEGPNGGSIGKLTLKYHTKGDAKPDEEELKKGKAKGEGLFRAIEGYVLANPTQY",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "Q6VT83"
+    ]
+   }
+  ]
+ },
+ "4MA6": {
+  "title": "Crystal structure of Ara h 8 with Epicatechin bound",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.0
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen",
+    "seq": "MGVFTFEDEITSTVPPAKLYNAMKDADSITPKIIDDVKSVEIVEGNGGPGTIKKLTIVEDGETKFILHKVESIDEANYAYNYSVVGGVALPPTAEKITFETKLVEGPNGGSIGKLTLKYHTKGDAKPDEEELKKGKAKGEGLFRAIEGYVLANPTQY",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "Q6VT83"
+    ]
+   }
+  ]
+ },
+ "4MAP": {
+  "title": "Crystal structure of Ara h 8 purified with heating",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.9
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen",
+    "seq": "MGVFTFEDEITSTVPPAKLYNAMKDADSITPKIIDDVKSVEIVEGNGGPGTIKKLTIVEDGETKFILHKVESIDEANYAYNYSVVGGVALPPTAEKITFETKLVEGPNGGSIGKLTLKYHTKGDAKPDEEELKKGKAKGEGLFRAIEGYVLANPTQY",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "Q6VT83"
+    ]
+   }
+  ]
+ },
+ "4MNS": {
+  "title": "Crystal structure of the major pollen allergen Bet v 1-A in complex with P303",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.2
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major pollen allergen Bet v 1-A",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "4N3E": {
+  "title": "Crystal structure of Hyp-1, a St John's wort PR-10 protein, in complex with 8-anilino-1-naphthalene sulfonate (ANS)",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.43
+  ],
+  "nmodels": 28,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Phenolic oxidative coupling protein",
+    "seq": "GIDPFTMAAYTIVKEEESPIAPHRLFKALVLERHQVLVKAQPHVFKSGEIIEGDGGVGTVTKITFVDGHPLTYMLHKFDEIDAANFYCKYTLFEGDVLRDNIEKVVYEVKLEAVGGGSKGKITVTYHPKPGCTVNEEEVKIGEKKAYEFYKQVEEYLAANPEVFA",
+    "org": "Hypericum perforatum",
+    "uniprot": [
+     "Q8H1L1"
+    ]
+   }
+  ]
+ },
+ "4PSB": {
+  "title": "Crystal Structure of Phytohormone Binding Protein from Vigna radiata in complex with gibberellic acid (GA3)",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.42
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Cytokinin-specific binding protein",
+    "seq": "MVKEFNTQTELSVRLEALWAVLSKDFITVVPKVLPHIVKDVQLIEGDGGVGTILIFNFLPEVSPSYQREEITEFDESSHEIGLQVIEGGYLSQGLSYYKTTFKLSEIEEDKTLVNVKISYDHDSDIEEKVTPTKTSQSTLMYLRRLERYLSNGSA",
+    "org": "Vigna radiata",
+    "uniprot": [
+     "A0A1S3THR8"
+    ]
+   }
+  ]
+ },
+ "4Q0K": {
+  "title": "Crystal Structure of Phytohormone Binding Protein from Medicago truncatula in complex with gibberellic acid (GA3)",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.34
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "PHYTOHORMONE BINDING PROTEIN MTPHBP",
+    "seq": "GIDPFTMIKEFNTQTTLNVGLEALWAAQSKDITLVVPKVLPNIVKDVQVIEGDGGVGTKLIFNFLPGIAPVNYQREVITEYDELSHTIGLQVVEGGYLNQGLSYYKTTFQFSAISENKTLVNVKISYDHESELIEEKVKPTKTSESTLFYLGQLEKFLLNGA",
+    "org": "Medicago truncatula",
+    "uniprot": [
+     "G7J032"
+    ]
+   }
+  ]
+ },
+ "4QIP": {
+  "title": "Crystal Structure of Major Birch Pollen Allergen Bet v 1 isoform a in complex with Sodium Dodecyl Sulfate",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.0
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major pollen allergen Bet v 1-A",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "4REH": {
+  "title": "Crystal structure of ginseng major latex-like protein 151 (GLP) from Panax ginseng. (crystal-1)",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.5
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major latex-like protein",
+    "seq": "MGLTGKLICQTGIKSDGDVFHELFGTRPHHVPNITPANIQGCDLHEGEFGKVGSVVIWNYSIDGNAMIAKEEIVAIDEEDKSVTFKVVEGHLFEEFKSIVFSVHVDTKGEDNLVTWSIDYEKLNESVKDPTSYLDFLLSVTRDIEAHHLPK",
+    "org": "Panax ginseng",
+    "uniprot": [
+     "B5THI3"
+    ]
+   }
+  ]
+ },
+ "4REI": {
+  "title": "Crystal structure of ginseng major latex-like protein 151 (GLP) from Panax ginseng. (crystal-2)",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.49
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major latex-like protein",
+    "seq": "MGLTGKLICQTGIKSDGDVFHELFGTRPHHVPNITPANIQGCDLHEGEFGKVGSVVIWNYSIDGNAMIAKEEIVAIDEEDKSVTFKVVEGHLFEEFKSIVFSVHVDTKGEDNLVTWSIDYEKLNESVKDPTSYLDFLLSVTRDIEAHHLPK",
+    "org": "Panax ginseng",
+    "uniprot": [
+     "B5THI3"
+    ]
+   }
+  ]
+ },
+ "4REJ": {
+  "title": "Crystal structure of ginseng major latex-like protein 151 (GLP) from Panax ginseng. (crystal-3)",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.69
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major latex-like protein",
+    "seq": "MGLTGKLICQTGIKSDGDVFHELFGTRPHHVPNITPANIQGCDLHEGEFGKVGSVVIWNYSIDGNAMIAKEEIVAIDEEDKSVTFKVVEGHLFEEFKSIVFSVHVDTKGEDNLVTWSIDYEKLNESVKDPTSYLDFLLSVTRDIEAHHLPK",
+    "org": "Panax ginseng",
+    "uniprot": [
+     "B5THI3"
+    ]
+   }
+  ]
+ },
+ "4RYV": {
+  "title": "Crystal structure of yellow lupin LLPR-10.1A protein in complex with trans-zeatin",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.38
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Protein LLPR-10.1A",
+    "seq": "GIFAFENEQSSTVAPAKLYKALTKDSDEIVPKVIEPIQSVEIVEGNGGPGTIKKIIAIHDGHTSFVLHKLDAIDEANLTYNYSIIGGEGLDESLEKISYESKILPGPDGGSIGKINVKFHTKGDVLSETVRDQAKFKGLGLFKAIEGYVLAHPDY",
+    "org": "Lupinus luteus",
+    "uniprot": [
+     "P52778"
+    ]
+   }
+  ]
+ },
+ "4Y31": {
+  "title": "Crystal structure of yellow lupine LlPR-10.1A protein in ligand-free form",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.32
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Protein LlR18A",
+    "seq": "GIFAFENEQSSTVAPAKLYKALTKDSDEIVPKVIEPIQSVEIVEGNGGPGTIKKIIAIHDGHTSFVLHKLDAIDEANLTYNYSIIGGEGLDESLEKISYESKILPGPDGGSIGKINVKFHTKGDVLSETVRDQAKFKGLGLFKAIEGYVLAHPDY",
+    "org": "Lupinus luteus",
+    "uniprot": [
+     "P52778"
+    ]
+   }
+  ]
+ },
+ "4Z3L": {
+  "title": "CRYSTAL STRUCTURE OF BIRCH POLLEN ALLERGEN BET V 1 MUTANT G26L, D69I, P90L, K97I",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.5
+  ],
+  "nmodels": 6,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major pollen allergen Bet v 1-A",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDLDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKIRVDEVDHTNFKYNYSVIEGGLIGDTLEIISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "5AMW": {
+  "title": "Crystal Structure of the Strawberry Pathogenesis-Related 10 (PR-10) Fra a 2 protein (A141F) processed with the CrystalDirect automated mounting and cryo-cooling technology",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.9
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Fra a 2 allergen",
+    "seq": "AMAGVFTYETEFTSVIPPPRLFKAFILDADNLIPKIAPQAVKCAEIIEGDGGVGTIKKITFGEGSQFGSVTHKIDGIDKENFVYSYSLIEGDALSDKIEKISYETKLVSSSDGGSIIKSTSNYHTKGDVEIKEEHVKAGKEKFSHLFKLVEGYLLANPNEYC",
+    "org": "Fragaria x ananassa",
+    "uniprot": [
+     "D0E0C6"
+    ]
+   }
+  ]
+ },
+ "5C9Y": {
+  "title": "Crystal structure of yellow lupine LlPR-10.1A protein partially saturated with trans-zeatin",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.5
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Protein LlR18A",
+    "seq": "GIFAFENEQSSTVAPAKLYKALTKDSDEIVPKVIEPIQSVEIVEGNGGPGTIKKIIAIHDGHTSFVLHKLDAIDEANLTYNYSIIGGEGLDESLEKISYESKILPGPDGGSIGKINVKFHTKGDVLSETVRDQAKFKGLGLFKAIEGYVLAHPDY",
+    "org": "Lupinus luteus",
+    "uniprot": [
+     "P52778"
+    ]
+   }
+  ]
+ },
+ "5I8F": {
+  "title": "Crystal structure of St. John's wort Hyp-1 protein in complex with melatonin",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.3
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Phenolic oxidative coupling protein",
+    "seq": "GIDPFTMAAYTIVKEEESPIAPHRLFKALVLERHQVLVKAQPHVFKSGEIIEGDGGVGTVTKITFVDGHPLTYMLHKFDEIDAANFYCKYTLFEGDVLRDNIEKVVYEVKLEAVGGGSKGKITVTYHPKPGCTVNEEEVKIGEKKAYEFYKQVEEYLAANPEVFA",
+    "org": "Hypericum perforatum",
+    "uniprot": [
+     "E9JSA3"
+    ]
+   }
+  ]
+ },
+ "5MMU": {
+  "title": "NMR solution structure of the major apple allergen Mal d 1",
+  "method": [
+   "SOLUTION NMR"
+  ],
+  "res": null,
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major allergen Mal d 1",
+    "seq": "GVYTFENEFTSEIPPSRLFKAFVLDADNLIPKIAPQAIKQAEILEGNGGPGTIKKITFGEGSQYGYVKHRIDSIDEASYSYSYTLIEGDALTDTIEKISYETKLVACGSGSTIKSISHYHTKGNIEIKEEHVKVGKEKAHGLFKLIESYLKDHPDAYN",
+    "org": "Malus domestica",
+    "uniprot": [
+     "P43211"
+    ]
+   }
+  ]
+ },
+ "5MXB": {
+  "title": "Crystal structure of yellow lupin LLPR-10.2B protein in complex with melatonin",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.51
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Class 10 plant pathogenesis-related protein",
+    "seq": "GVFTFQDEYTSTIAPAKLYKALVTDADIIIPKAVETIQSVEIVEGNGGPGTIKKLTFIEGGESKYVLHKIEAIDEANLGYNYSIVGGVGLPDTIEKISFETKLVEGANGGSIGKVTIKIETKGDAQPNEEEGKAAKARGDAFFKAIESYLSAHPD",
+    "org": "Lupinus luteus",
+    "uniprot": [
+     "Q9LLQ2"
+    ]
+   }
+  ]
+ },
+ "5MXW": {
+  "title": "Crystal structure of yellow lupin LLPR-10.2B protein in complex with melatonin and trans-zeatin.",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.57
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Class 10 plant pathogenesis-related protein",
+    "seq": "GVFTFQDEYTSTIAPAKLYKALVTDADIIIPKAVETIQSVEIVEGNGGPGTIKKLTFIEGGESKYVLHKIEAIDEANLGYNYSIVGGVGLPDTIEKISFETKLVEGANGGSIGKVTIKIETKGDAQPNEEEGKAAKARGDAFFKAIESYLSAHPDY",
+    "org": "Lupinus luteus",
+    "uniprot": [
+     "Q9LLQ2"
+    ]
+   }
+  ]
+ },
+ "5N8Q": {
+  "title": "Structure of truncated Norcoclaurine Synthase from Thalictrum flavum",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.0
+  ],
+  "nmodels": 3,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "S-norcoclaurine synthase",
+    "seq": "SMGIINQVSTVTKVIHHELEVAASADDIWTVYSWPGLAKHLPDLLPGAFEKLEIIGDGGVGTILDMTFVPGEFPHEYKEKFILVDNEHRLKKVQMIEGGYLDLGVTYYMDTIHVVPTGKDSCVIKSSTEYHVKPEFVKIVEPLITTGPLAAMADAISKLVLEHKS",
+    "org": "Thalictrum flavum subsp. glaucum",
+    "uniprot": [
+     "Q67A25"
+    ]
+   }
+  ]
+ },
+ "5NON": {
+  "title": "Structure of truncated Norcoclaurine Synthase from Thalictrum flavum with product mimic",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.85
+  ],
+  "nmodels": 3,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "S-norcoclaurine synthase",
+    "seq": "SMGIINQVSTVTKVIHHELEVAASADDIWTVYSWPGLAKHLPDLLPGAFEKLEIIGDGGVGTILDMTFVPGEFPHEYKEKFILVDNEHRLKKVQMIEGGYLDLGVTYYMDTIHVVPTGKDSCVIKSSTEYHVKPEFVKIVEPLITTGPLAAMADAISKLVLEHKS",
+    "org": "Thalictrum flavum subsp. glaucum",
+    "uniprot": [
+     "Q67A25"
+    ]
+   }
+  ]
+ },
+ "6ALK": {
+  "title": "NMR solution structure of the major beech pollen allergen Fag s 1",
+  "method": [
+   "SOLUTION NMR"
+  ],
+  "res": null,
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Fag s 1 pollen allergen",
+    "seq": "GVFTYESETTTVITPARLFKAFVLDADNLIPKVAPQAIKSSEIIEGSGGPGTIKKITFGEGSQFNYVKHRIDEIDNANFTYACTLIEGDAISETLEKIAYEIKLVASPDGGSILKSTSKYHTKGDHEIKEDQIKAGKEEASGIFKAVEAYLLANPAAYH",
+    "org": "Fagus sylvatica",
+    "uniprot": [
+     "B7TWE6"
+    ]
+   }
+  ]
+ },
+ "6AWR": {
+  "title": "Structure of PR 10 Allergen Ara h 8.01 in complex with ANS",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.6
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen",
+    "seq": "MGVFTFEDEITSTVPPAKLYNAMKDADSITPKIIDDVKSVEIVEGNGGPGTIKKLTIVEDGETKFILHKVESIDEANYAYNYSVVGGVALPPTAEKITFETKLVEGPNGGSIGKLTLKYHTKGDAKPDEEELKKGKAKGEGLFRAIEGYVLANPTQY",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "Q6VT83"
+    ]
+   }
+  ]
+ },
+ "6AWS": {
+  "title": "Structure of PR 10 Allergen Ara h 8.01 in complex with quercetin",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.35
+  ],
+  "nmodels": 3,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen",
+    "seq": "MGVFTFEDEITSTVPPAKLYNAMKDADSITPKIIDDVKSVEIVEGNGGPGTIKKLTIVEDGETKFILHKVESIDEANYAYNYSVVGGVALPPTAEKITFETKLVEGPNGGSIGKLTLKYHTKGDAKPDEEELKKGKAKGEGLFRAIEGYVLANPTQY",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "Q6VT83"
+    ]
+   }
+  ]
+ },
+ "6AWT": {
+  "title": "Structure of PR 10 Allergen in complex with epicatechin",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.3
+  ],
+  "nmodels": 4,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "PR 10 protein",
+    "seq": "GVFTFEDEITSTVPPAKLYNAMKDADSITPKIIDDVKSVEIVEGNGGPGTIKKLTIVEDGETKFILHKVESIDEANYAYNYSVVGGVALPPTAEKITFETKLVEGPNGGSIGKLTLKYHTKGDAKPDEEELKKGKAKGEGLFRAIEGYVLANPTQY",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "Q6VT83"
+    ]
+   }
+  ]
+ },
+ "6AWU": {
+  "title": "Structure of PR 10 Allergen Ara h 8.01 in complex with caffeic acid",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   3.05
+  ],
+  "nmodels": 4,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen",
+    "seq": "GVFTFEDEITSTVPPAKLYNAMKDADSITPKIIDDVKSVEIVEGNGGPGTIKKLTIVEDGETKFILHKVESIDEANYAYNYSVVGGVALPPTAEKITFETKLVEGPNGGSIGKLTLKYHTKGDAKPDEEELKKGKAKGEGLFRAIEGYVLANPTQY",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "Q6VT83"
+    ]
+   }
+  ]
+ },
+ "6AWV": {
+  "title": "Ara h 8.01 in complex with epicatechin",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.55
+  ],
+  "nmodels": 3,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen",
+    "seq": "GVFTFEDEITSTVPPAKLYNAMKDADSITPKIIDDVKSVEIVEGNGGPGTIKKLTIVEDGETKFILHKVESIDEANYAYNYSVVGGVALPPTAEKITFETKLVEGPNGGSIGKLTLKYHTKGDAKPDEEELKKGKAKGEGLFRAIEGYVLANPTQY",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "Q6VT83"
+    ]
+   }
+  ]
+ },
+ "6AWW": {
+  "title": "Structure of PR 10 Allergen Ara h 8.01 in complex with 3-Hydroxy-2-naphthoic acid",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.3
+  ],
+  "nmodels": 5,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen",
+    "seq": "GVFTFEDEITSTVPPAKLYNAMKDADSITPKIIDDVKSVEIVEGNGGPGTIKKLTIVEDGETKFILHKVESIDEANYAYNYSVVGGVALPPTAEKITFETKLVEGPNGGSIGKLTLKYHTKGDAKPDEEELKKGKAKGEGLFRAIEGYVLANPTQY",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "Q6VT83"
+    ]
+   }
+  ]
+ },
+ "6AWX": {
+  "title": "Structure of PR-10 Allergen Ara h 8.01.",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.7
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen",
+    "seq": "GVFTFEDEITSTVPPAKLYNAMKDADSITPKIIDDVKSVEIVEGNGGPGTIKKLTIVEDGETKFILHKVESIDEANYAYNYSVVGGVALPPTAEKITFETKLVEGPNGGSIGKLTLKYHTKGDAKPDEEELKKGKAKGEGLFRAIEGYVLANPTQY",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "Q6VT83"
+    ]
+   }
+  ]
+ },
+ "6AWY": {
+  "title": "Structure of peanut allergen Ara h 8.01.",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.1
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen",
+    "seq": "GVFTFEDEITSTVPPAKLYNAMKDADSITPKIIDDVKSVEIVEGNGGPGTIKKLTIVEDGETKFILHKVESIDEANYAYNYSVVGGVALPPTAEKITFETKLVEGPNGGSIGKLTLKYHTKGDAKPDEEELKKGKAKGEGLFRAIEGYVLANPTQY",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "Q6VT83"
+    ]
+   }
+  ]
+ },
+ "6AWZ": {
+  "title": "Structure of PR-10 allergen from peanut (Ara h 8.01).",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.9
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen",
+    "seq": "GVFTFEDEITSTVPPAKLYNAMKDADSITPKIIDDVKSVEIVEGNGGPGTIKKLTIVEDGETKFILHKVESIDEANYAYNYSVVGGVALPPTAEKITFETKLVEGPNGGSIGKLTLKYHTKGDAKPDEEELKKGKAKGEGLFRAIEGYVLANPTQY",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "Q6VT83"
+    ]
+   }
+  ]
+ },
+ "6AX0": {
+  "title": "Structure of PR-10 Allergen Ara h 8.01 in complex with epicatechin",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.5
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen",
+    "seq": "MGVFTFEDEITSTVPPAKLYNAMKDADSITPKIIDDVKSVEIVEGNGGPGTIKKLTIVEDGETKFILHKVESIDEANYAYNYSVVGGVALPPTAEKITFETKLVEGPNGGSIGKLTLKYHTKGDAKPDEEELKKGKAKGEGLFRAIEGYVLANPTQY",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "Q6VT83"
+    ]
+   }
+  ]
+ },
+ "6B1D": {
+  "title": "Structure of PR 10 Allergen Ara h 8.01 with Quercetin",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.51
+  ],
+  "nmodels": 3,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen",
+    "seq": "GVFTFEDEITSTVPPAKLYNAMKDADSITPKIIDDVKSVEIVEGNGGPGTIKKLTIVEDGETKFILHKVESIDEANYAYNYSVVGGVALPPTAEKITFETKLVEGPNGGSIGKLTLKYHTKGDAKPDEEELKKGKAKGEGLFRAIEGYVLANPTQY",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "Q6VT83"
+    ]
+   }
+  ]
+ },
+ "6GQ9": {
+  "title": "Solution structure of the hazel allergen Cor a 1.0401",
+  "method": [
+   "SOLUTION NMR"
+  ],
+  "res": null,
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major allergen Cor a 1.0401",
+    "seq": "MGVFCYEDEATSVIPPARLFKSFVLDADNLIPKVAPQHFTSAENLEGNGGPGTIKKITFAEGNEFKYMKHKVEEIDHANFKYCYSIIEGGPLGHTLEKISYEIKMAAAPHGGGSILKITSKYHTKGNASINEEEIKAGKEKAAGLFKAVEAYLLAHPDAYC",
+    "org": "Corylus avellana",
+    "uniprot": [
+     "Q9SWR4"
+    ]
+   }
+  ]
+ },
+ "6KA2": {
+  "title": "Crystal structure of a Thebaine synthase from Papaver somniferum in complex with TBN",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.35
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Thebaine synthase 2",
+    "seq": "MAPLGVSGLVGKLSTELEVDCDAEKYYNMYKHGEDVKKAVPHLCVDVKIISGDPTSSGCIKEWNVNIDGKTIRSVEETTHDDETKTLRHRVFEGDVMKDFKKFDTIMVVNPKPDGNGCVVTRSIEYEKTNENSPTPFDYLQFGHQAIEDMNKYLRDSESN",
+    "org": "Papaver somniferum",
+    "uniprot": [
+     "A0A2U9GGW3"
+    ]
+   }
+  ]
+ },
+ "6KA3": {
+  "title": "Crystal structure of a Thebaine synthase from Papaver somniferum",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.951
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Thebaine synthase 2",
+    "seq": "MAPLGVSGLVGKLSTELEVDCDAEKYYNMYKHGEDVKKAVPHLCVDVKIISGDPTSSGCIKEWNVNIDGKTIRSVEETTHDDETKTLRHRVFEGDVMKDFKKFDTIMVVNPKPDGNGCVVTRSIEYEKTNENSPTPFDYLQFGHQAIEDMNKYLRDSESN",
+    "org": "Papaver somniferum",
+    "uniprot": [
+     "A0A2U9GGW3"
+    ]
+   }
+  ]
+ },
+ "6R3C": {
+  "title": "Solution structure of birch pollen allergen Bet v 1a",
+  "method": [
+   "SOLUTION NMR"
+  ],
+  "res": null,
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major pollen allergen Bet v 1-A",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "6RP3": {
+  "title": "Truncated Norcoclaurine synthase with reaction intermediate mimic",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.81
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "S-norcoclaurine synthase",
+    "seq": "SMGIINQVSTVTKVIHHELEVAASADDIWTVYSWPGLAKHLPDLLPGAFEKLEIIGDGGVGTILDMTFVPGEFPHEYKEKFILVDNEHRLKKVQMIEGGYLDLGVTYYMDTIHVVPTGKDSCVIKSSTEYHVKPEFVKIVEPLITTGPLAAMADAISKLVLEHKS",
+    "org": "Thalictrum flavum subsp. glaucum",
+    "uniprot": [
+     "Q67A25"
+    ]
+   }
+  ]
+ },
+ "6SJJ": {
+  "title": "A new modulated crystal structure of ANS complex of St John's wort Hyp-1 protein with 36 protein molecules in the asymmetric unit of the supercell",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.3
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "PR-10 protein",
+    "seq": "DPFTMAAYTIVKEEESPIAPHRLFKALVLERHQVLVKAQPHVFKSGEIIEGDGGVGTVTKITFVDGHPLTYMLHKFDEIDAANFYCKYTLFEGDVLRDNIEKVVYEVKLEAVGGGSKGKITVTYHPKPGCTVNEEEVKIGEKKAYEFYKQVEEYLAANPEVFA",
+    "org": "Hypericum perforatum",
+    "uniprot": [
+     "A0A160HRF0"
+    ]
+   }
+  ]
+ },
+ "6ST8": {
+  "title": "Crystal structure of the strawberry pathogenesis-related 10 (PR-10) Fra a 1.02 protein",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.04
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major strawberry allergen Fra a 1-2",
+    "seq": "GAMAGVFTYETEFTSVIPPPRLFKAFILDADNLIPKIAPQAVKCAEIIEGDGGVGTIKKITFGEGSQFGSVTHKIDGIDKENFVYSYSLIEGDALSDKIEKISYETKLVSSSDGGSIIKSTSNYHTKGDVEIKEEHVKAGKEKASHLFKLVEGYLLANPNEYC",
+    "org": "Fragaria x ananassa",
+    "uniprot": [
+     "D0E0C6"
+    ]
+   }
+  ]
+ },
+ "6ST9": {
+  "title": "Crystal structure of the strawberry pathogenesis-related 10 (PR-10) Fra a 1.02 protein, D48R mutant",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.97
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major strawberry allergen Fra a 1-2",
+    "seq": "GAMAGVFTYETEFTSVIPPPRLFKAFILDADNLIPKIAPQAVKCAEIIEGRGGVGTIKKITFGEGSQFGSVTHKIDGIDKENFVYSYSLIEGDALSDKIEKISYETKLVSSSDGGSIIKSTSNYHTKGDVEIKEEHVKAGKEKASHLFKLVEGYLLANPNEYC",
+    "org": "Fragaria x ananassa",
+    "uniprot": [
+     "D0E0C6"
+    ]
+   }
+  ]
+ },
+ "6STA": {
+  "title": "Crystal structure of the strawberry pathogenesis-related 10 (PR-10) Fra a 1.02 protein, E46A D48A mutant",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.19
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major strawberry allergen Fra a 1-2",
+    "seq": "GAMAGVFTYETEFTSVIPPPRLFKAFILDADNLIPKIAPQAVKCAEIIAGAGGVGTIKKITFGEGSQFGSVTHKIDGIDKENFVYSYSLIEGDALSDKIEKISYETKLVSSSDGGSIIKSTSNYHTKGDVEIKEEHVKAGKEKASHLFKLVEGYLLANPNEYC",
+    "org": "Fragaria x ananassa",
+    "uniprot": [
+     "D0E0C6"
+    ]
+   }
+  ]
+ },
+ "6STB": {
+  "title": "Crystal structure of the strawberry pathogenesis-related 10 (PR-10) Fra a 1.02 protein, Q64W mutant",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.27
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major strawberry allergen Fra a 1-2",
+    "seq": "GAMAGVFTYETEFTSVIPPPRLFKAFILDADNLIPKIAPQAVKCAEIIEGDGGVGTIKKITFGEGSWFGSVTHKIDGIDKENFVYSYSLIEGDALSDKIEKISYETKLVSSSDGGSIIKSTSNYHTKGDVEIKEEHVKAGKEKASHLFKLVEGYLLANPNEYC",
+    "org": "Fragaria x ananassa",
+    "uniprot": [
+     "D0E0C6"
+    ]
+   }
+  ]
+ },
+ "6V8H": {
+  "title": "Crystal structure of Ara h 8.0201",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.31
+  ],
+  "nmodels": 8,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen isoform",
+    "seq": "MGVHTFEEESTSPVPPAKLFKATVVDGDELTPKLIPAIQSIEIVEGNGGPGTVKKVTAVEDGKTSYVLHKIDAIDEATYTYDYTISGGTGFQEILEKVSFKTKLEAADGGSKIKVSVTFHTKGDAPLPDEVHQDVKQKSQGIFKAIEGYVLSN",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "B0YIU5"
+    ]
+   }
+  ]
+ },
+ "6V8J": {
+  "title": "Crystal structure of Ara h 8.0201",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.95
+  ],
+  "nmodels": 4,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen isoform",
+    "seq": "MGVHTFEEESTSPVPPAKLFKATVVDGDELTPKLIPAIQSIEIVEGNGGPGTVKKVTAVEDGKTSYVLHKIDAIDEATYTYDYTISGGTGFQEILEKVSFKTKLEAADGGSKIKVSVTFHTKGDAPLPDEVHQDVKQKSQGIFKAIEGYVLSN",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "B0YIU5"
+    ]
+   }
+  ]
+ },
+ "6V8L": {
+  "title": "Crystal structure of Ara h 8.0201",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.95
+  ],
+  "nmodels": 4,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen isoform",
+    "seq": "MGVHTFEEESTSPVPPAKLFKATVVDGDELTPKLIPAIQSIEIVEGNGGPGTVKKVTAVEDGKTSYVLHKIDAIDEATYTYDYTISGGTGFQEILEKVSFKTKLEAADGGSKIKVSVTFHTKGDAPLPDEVHQDVKQKSQGIFKAIEGYVLSN",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "B0YIU5"
+    ]
+   }
+  ]
+ },
+ "6V8M": {
+  "title": "Crystal structure of Ara h 8.0201",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.75
+  ],
+  "nmodels": 2,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen isoform",
+    "seq": "MGVHTFEEESTSPVPPAKLFKATVVDGDELTPKLIPAIQSIEIVEGNGGPGTVKKVTAVEDGKTSYVLHKIDAIDEATYTYDYTISGGTGFQEILEKVSFKTKLEAADGGSKIKVSVTFHTKGDAPLPDEVHQDVKQKSQGIFKAIEGYVLSN",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "B0YIU5"
+    ]
+   }
+  ]
+ },
+ "6V8S": {
+  "title": "Crystal structure of Ara h 8.0201",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.1
+  ],
+  "nmodels": 16,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Ara h 8 allergen isoform",
+    "seq": "MGVHTFEEESTSPVPPAKLFKATVVDGDELTPKLIPAIQSIEIVEGNGGPGTVKKVTAVEDGKTSYVLHKIDAIDEATYTYDYTISGGTGFQEILEKVSFKTKLEAADGGSKIKVSVTFHTKGDAPLPDEVHQDVKQKSQGIFKAIEGYVLSN",
+    "org": "Arachis hypogaea",
+    "uniprot": [
+     "B0YIU5"
+    ]
+   }
+  ]
+ },
+ "6Y3H": {
+  "title": "NMR solution structure of the hazelnut allergen Cor a 1.0401",
+  "method": [
+   "SOLUTION NMR"
+  ],
+  "res": null,
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major allergen Cor a 1.0401",
+    "seq": "GVFCYEDEATSVIPPARLFKSFVLDADNLIPKVAPQHFTSAENLEGNGGPGTIKKITFAEGNEFKYMKHKVEEIDHANFKYCYSIIEGGPLGHTLEKISYEIKMAAAPHGGGSILKITSKYHTKGNASINEEEIKAGKEKAAGLFKAVEAYLLAHPDAYC",
+    "org": "Corylus avellana",
+    "uniprot": [
+     "Q9SWR4"
+    ]
+   }
+  ]
+ },
+ "6Y3I": {
+  "title": "NMR solution structure of the hazelnut allergen Cor a 1.0402",
+  "method": [
+   "SOLUTION NMR"
+  ],
+  "res": null,
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major allergen variant Cor a 1.0402",
+    "seq": "GVFSYEDEATSVIPPARLFKSFVLDADNLIPKVAPQHFTGAENLEGNGGPGTIKKITFAEGSEFKYMKHKVEEIDHANFKYCYSIIEGGPLGHTLEKISYEIKMAAAPHGGGSILKITSKYHTKGNASISEEEIKAGKEKAAGLFKAVEAYLLAHPDTYC",
+    "org": "Corylus avellana",
+    "uniprot": [
+     "Q9FPK4"
+    ]
+   }
+  ]
+ },
+ "6Y3K": {
+  "title": "NMR solution structure of the hazelnut allergen Cor a 1.0403",
+  "method": [
+   "SOLUTION NMR"
+  ],
+  "res": null,
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major allergen variant Cor a 1.0403",
+    "seq": "GVFCYEDEATSVIPPARLFKSFVLDADNLIPKVAPQHFTGAENLEGNGGPGTIKKITFAEGSEFKYMKHKVEEIDHANFKYCYSIIEGGPLGHTLEKISYEIKMAAAPHGGGSILKITSKYHTKGNASISEEEIKAGKEKAAGLFKAVEAYLLAHPDTYC",
+    "org": "Corylus avellana",
+    "uniprot": [
+     "Q9FPK3"
+    ]
+   }
+  ]
+ },
+ "6Y3L": {
+  "title": "NMR solution structure of the hazelnut allergen Cor a 1.0404",
+  "method": [
+   "SOLUTION NMR"
+  ],
+  "res": null,
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major allergen variant Cor a 1.0404",
+    "seq": "GVFSYEDEATSVIPPARLFKSFVLDADNLIPKVAPQHFTSAENLEGNGGPGTIKKITFAEGNEFKYMKHKVEEIDHANFKYCYSIIEGGPLGHTLEKIPYEIKMAAAPHGGGSILKITSKYHTKGNASINEEEIKAGKEKAAGLFKAVEAYLLAHPDAYC",
+    "org": "Corylus avellana",
+    "uniprot": [
+     "Q9FPK2"
+    ]
+   }
+  ]
+ },
+ "6Z82": {
+  "title": "Thalictrum flavumn Norcoclaurine synthase point mutant in complex with a transition state analoge",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.3
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "S-norcoclaurine synthase",
+    "seq": "SMGIINQVSTVTKVIHHELEVAASADDIWTVYSWPGLAKHLPDLLPGAFEKLEIIGDGGVGTILDVTFVPGEFPHEYKEKFILVDNEHRLKKVQMIEGGYLDLGVTYYMDTIHVVPTGKDSCVIKSSTEYHVKPEFVKIVEPLITTGPLAAMADAISKLVLEHKS",
+    "org": "Thalictrum flavum subsp. glaucum",
+    "uniprot": [
+     "Q67A25"
+    ]
+   }
+  ]
+ },
+ "6Z98": {
+  "title": "NMR solution structure of the peach allergen Pru p 1.0101",
+  "method": [
+   "SOLUTION NMR"
+  ],
+  "res": null,
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major allergen Pru p 1",
+    "seq": "GVFTYESEFTSEIPPPRLFKAFVLDADNLVPKIAPQAIKHSEILEGDGGPGTIKKITFGEGSQYGYVKHKIDSIDKENHSYSYTLIEGDALGDNLEKISYETKLVASPSGGSIIKSTSHYHTKGDVEIKEEHVKAGKEKASNLFKLIETYLKGHPDAYN",
+    "org": "Prunus persica",
+    "uniprot": [
+     "Q2I6V8"
+    ]
+   }
+  ]
+ },
+ "7MXL": {
+  "title": "Complex of Bet v 1 with the Fab fragments of a three antibody cocktail",
+  "method": [
+   "ELECTRON MICROSCOPY"
+  ],
+  "res": [
+   3.2
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "3",
+    "name": "Major pollen allergen Bet v 1-A",
+    "seq": "MGVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "7N0U": {
+  "title": "Complex of recombinant Bet v 1 with Fab fragment of REGN5713",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   3.0
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "3",
+    "name": "Recombinant Bet v 1",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGLPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYNEQKLISEEDLGGEQKLISEEDLHHHHHH",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "7N0V": {
+  "title": "Complex of recombinant Bet v 1 with Fab fragment of REGN5715",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   3.71
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "3",
+    "name": "Major pollen allergen Bet v 1-A",
+    "seq": "GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGLPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYNEQKLISEEDLGGEQKLISEEDLHHHHHH",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "7QB6": {
+  "title": "Crystal Structure of Medicago truncatula Nodulin 13 (MtN13) in complex with 3-carboxybenzophenone",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.52
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Nodulin-13",
+    "seq": "GIDPFTMGVITSESEYVSSLSAEKLYRGIVEDGNIIYPKALPRFIEKAETLEGDGGPGTIKKLTFVGDFGSTKQHIDMVDRENCAYTYSVYEGIALSDQPLEKIVFEFKLVPTPEEGCIVKSTTKYYTKGDDIELSKDYLEAGIERFEGFTKAVESFLLANPDYNKDSN",
+    "org": "Medicago truncatula",
+    "uniprot": [
+     "P93330"
+    ]
+   }
+  ]
+ },
+ "7UQL": {
+  "title": "Pathogenesis related 10-10 app from",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.9
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Pathogenesis Related 10-10 protein",
+    "seq": "MAHHGVSGLVGKLVTQLEVNCDADIFYKIVKHHEEVPNVIPHFFTGVQVTKGDGLVSGCIKEWNYVLEGKAMTAVEETTHADETRTLTHHITEGDAMKDYKKFDVIVETNPKPNGHGSVVTYSIVYEKINEDSPAPFDYLKFFHQNIVDMSAHICSSA",
+    "org": "Papaver somniferum",
+    "uniprot": [
+     "A0A9Y2YA81"
+    ]
+   }
+  ]
+ },
+ "7UQM": {
+  "title": "Pathogenesis related 10-10 papaverine complex",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.8
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Pathogenesis Related 10-10 protein",
+    "seq": "MAHHGVSGLVGKLVTQLEVNCDADIFYKIVKHHEEVPNVIPHFFTGVQVTKGDGLVSGCIKEWNYVLEGKAMTAVEETTHADETRTLTHHITEGDAMKDYKKFDVIVETNPKPNGHGSVVTYSIVYEKINEDSPAPFDYLKFFHQNIVDMSAHICSSA",
+    "org": "Papaver somniferum",
+    "uniprot": [
+     "A0A9Y2YA81"
+    ]
+   }
+  ]
+ },
+ "7UQN": {
+  "title": "Pathogenesis related 10-10 noscapine complex",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.7
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Pathogenesis Related 10-10 protein",
+    "seq": "MAHHGVSGLVGKLVTQLEVNCDADIFYKIVKHHEEVPNVIPHFFTGVQVTKGDGLVSGCIKEWNYVLEGKAMTAVEETTHADETRTLTHHITEGDAMKDYKKFDVIVETNPKPNGHGSVVTYSIVYEKINEDSPAPFDYLKFFHQNIVDMSAHICSSA",
+    "org": "Papaver somniferum",
+    "uniprot": [
+     "A0A9Y2YA81"
+    ]
+   }
+  ]
+ },
+ "7UQO": {
+  "title": "Pathogenesis related 10-10 (S)-tetrahydropapaverine complex",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.75
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Pathogenesis Related 10-10 protein",
+    "seq": "MAHHGVSGLVGKLVTQLEVNCDADIFYKIVKHHEEVPNVIPHFFTGVQVTKGDGLVSGCIKEWNYVLEGKAMTAVEETTHADETRTLTHHITEGDAMKDYKKFDVIVETNPKPNGHGSVVTYSIVYEKINEDSPAPFDYLKFFHQNIVDMSAHICSSA",
+    "org": "Papaver somniferum",
+    "uniprot": [
+     "A0A9Y2YA81"
+    ]
+   }
+  ]
+ },
+ "8H3I": {
+  "title": "Crystal Structure of the apo-form Pathogenesis-related Protein HcPR10 from Halostachys caspica",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.9
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "PR10",
+    "seq": "GSMGVFTCTLADITSPVAPARLFQAFTIDNHNLMPKVVPQFVKSIDFVQGDSTAVGCVKQINFPADAPFTYVKNRVDEIDASKYYLKYTCIEGDAFPDTVEYAVYEDTFEQTETGSRCKMVAHYHLKGDSVMKEEDVAPAKEGIQKMFKAVEEHLIANPQLYA",
+    "org": "Halostachys caspica",
+    "uniprot": [
+     "A0A171NYA8"
+    ]
+   }
+  ]
+ },
+ "8H3J": {
+  "title": "Crystal Structure of Pathogenesis-related Protein HcPR10 from Halostachys caspica in complex with trans-Zeatin-riboside",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.75
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "PR10",
+    "seq": "GSMGVFTCTLADITSPVAPARLFQAFTIDNHNLMPKVVPQFVKSIDFVQGDSTAVGCVKQINFPADAPFTYVKNRVDEIDASKYYLKYTCIEGDAFPDTVEYAVYEDTFEQTETGSRCKMVAHYHLKGDSVMKEEDVAPAKEGIQKMFKAVEEHLIANPQLYA",
+    "org": "Halostachys caspica",
+    "uniprot": [
+     "A0A171NYA8"
+    ]
+   }
+  ]
+ },
+ "8HO2": {
+  "title": "crystal structure of Norcoclaurine synthase from Chinese lotus (Nelumbo nucicera)",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.711
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "S-norcoclaurine synthase",
+    "seq": "MVIGRVVNEMEVGVPADDIWAVYSSPELPRLFVQLMPNVYKKIDILQGDGTVGTVLHIELADGIPEPRTWKEKFIKIDHQHREKVVRQIEGGFLDMGFRVFDVIFKIIEKDACSCIIRSTTAFELDEKFENNANLITAGNLWGAAKAISNYVIQNKSKRRNH",
+    "org": "Nelumbo nucifera",
+    "uniprot": [
+     "A0A191T7N6"
+    ]
+   }
+  ]
+ },
+ "8QHH": {
+  "title": "NMR solution structure of the green kiwi fruit allergen Act d 8.0101",
+  "method": [
+   "SOLUTION NMR"
+  ],
+  "res": null,
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Bet v 1 related allergen",
+    "seq": "GAITYDMEIPSSISAEKMFKAFVLDGDTIIPKALPHAITGVQTLEGDGGVGTIKLTTFGEGSVHKSVKHRIDGLDKENFTYSYSIIEGGALDVFESISYHIKIVATPDGGCICKNRSIYTPKCDAQVSEEEIKAGKERASGIFKKVEAYLLANPDC",
+    "org": "Actinidia deliciosa",
+    "uniprot": [
+     "D1YSM5"
+    ]
+   }
+  ]
+ },
+ "8QHI": {
+  "title": "NMR solution structure of the golden kiwi fruit allergen Act c 8.0101",
+  "method": [
+   "SOLUTION NMR"
+  ],
+  "res": null,
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major allergen Pru ar like",
+    "seq": "GVVTYDMEIPSKVPPVKLYKAFILDGDTLVPKVLPHAIKCVKILEGDGCAGTIKEVTFGEGSHHKCVKQRVDAIDKDNLTYSYTIIEGDVLAEKFESISYHIKIVACPDGGSICKNRSIYTTKGDCKVSEEEIKLGKEKAAEIFKALEAYLLANPDYC",
+    "org": "Actinidia deliciosa",
+    "uniprot": [
+     "D1YSM4"
+    ]
+   }
+  ]
+ },
+ "8VO1": {
+  "title": "Pathogenesis related 10-10 C155S mutant",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.8
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Pathogenesis related 10-10 C155S mutant",
+    "seq": "MAHHGVSGLVGKLVTQLEVNCDADIFYKIVKHHEEVPNVIPHFFTGVQVTKGDGLVSGCIKEWNYVLEGKAMTAVEETTHADETRTLTHHITEGDAMKDYKKFDVIVETNPKPNGHGSVVTYSIVYEKINEDSPAPFDYLKFFHQNIVDMSAHISSSA",
+    "org": "Papaver somniferum",
+    "uniprot": [
+     "A0A9Y2YA81"
+    ]
+   }
+  ]
+ },
+ "8VO2": {
+  "title": "Pathogenesis related 10-10 C59S mutant",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.5
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Pathogenesis related 10-10 C59S mutant",
+    "seq": "MAHHGVSGLVGKLVTQLEVNCDADIFYKIVKHHEEVPNVIPHFFTGVQVTKGDGLVSGSIKEWNYVLEGKAMTAVEETTHADETRTLTHHITEGDAMKDYKKFDVIVETNPKPNGHGSVVTYSIVYEKINEDSPAPFDYLKFFHQNIVDMSAHICSSA",
+    "org": "Papaver somniferum",
+    "uniprot": [
+     "A0A9Y2YA81"
+    ]
+   }
+  ]
+ },
+ "8VO3": {
+  "title": "Pathogenesis related 10-10 C59S mutant papaverine complex",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   1.5
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Pathogenesis related 10-10 C59S mutant",
+    "seq": "MAHHGVSGLVGKLVTQLEVNCDADIFYKIVKHHEEVPNVIPHFFTGVQVTKGDGLVSGSIKEWNYVLEGKAMTAVEETTHADETRTLTHHITEGDAMKDYKKFDVIVETNPKPNGHGSVVTYSIVYEKINEDSPAPFDYLKFFHQNIVDMSAHICSSA",
+    "org": "Papaver somniferum",
+    "uniprot": [
+     "A0A9Y2YA81"
+    ]
+   }
+  ]
+ },
+ "9Y0A": {
+  "title": "Crystal structure of Bet v 1.0101 in complex with human IgE Fab 2H22",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.12
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major pollen allergen Bet v 1-A",
+    "seq": "MGVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ },
+ "9Y0E": {
+  "title": "Crystal structure of Bet v 1.0101 in complex with human IgE Fab 2H22",
+  "method": [
+   "X-RAY DIFFRACTION"
+  ],
+  "res": [
+   2.9
+  ],
+  "nmodels": 1,
+  "entities": [
+   {
+    "entity": "1",
+    "name": "Major pollen allergen Bet v 1-A",
+    "seq": "MGVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGFPFKYVKDRVDEVDHTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESYLLAHSDAYN",
+    "org": "Betula pendula",
+    "uniprot": [
+     "P15494"
+    ]
+   }
+  ]
+ }
+}
