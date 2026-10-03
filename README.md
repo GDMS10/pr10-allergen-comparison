@@ -217,6 +217,7 @@ variable surface is the part that needed to vary.
 | `build_dataset.py` | writes `pairs.csv` |
 | `model.py` | sequence-only model + leave-one-organism-out CV |
 | `make_figure.py` | produces `identity_vs_rmsd_family.png` |
+| `screen.py` | CLI to score a pair of sequences for predicted structural deviation |
 | `epitope_analysis.py` | the epitope conservation test |
 | `test_pipeline.py` | assertions for the geometry and dataset code |
 
@@ -244,7 +245,35 @@ python3 model.py             # ~40 s: correlations and CV scores
 python3 model.py --full      # ~15 min: permutation test and feature importances
 python3 epitope_analysis.py  # ~1 min: the epitope conservation test
 python3 make_figure.py       # ~30 s: identity_vs_rmsd_family.png
+
+python3 screen.py --betv1 my_allergen.fasta   # screen a new sequence
 ```
+
+### Screening a new allergen
+
+`screen.py` takes FASTA (or a bare sequence, or `-` for stdin) and prints a
+predicted RMSD with a triage band. This is the practical use: no structure needed.
+
+```
+$ python3 screen.py --betv1 celery_Api_g_1.fasta
+epitope: 16 IgE-contact positions from 9Y0A, anchored on 1BV1
+
+Bet v 1 (1BV1) (159 aa)  vs  celery_Api_g_1.fasta (153 aa)
+  identity over shorter seq 42.5%   epitope identity 38%   gaps 1.9%
+  predicted RMSD 2.21 A   ->  moderate - same fold, region differences
+```
+
+Sanity checks against known pairs, which show where the model stops being useful:
+
+| Pair | Predicted | Observed | |
+|---|---|---|---|
+| Bet v 1 – Api g 1 | 2.21 Å | 1.49 Å | overestimates by 0.72 Å |
+| Bet v 1 – Dau c 1 | 2.21 Å | 1.61 Å | overestimates by 0.60 Å |
+| Api g 1 – Dau c 1 | 1.52 Å | **0.69 Å** | overestimates by 0.83 Å |
+
+At ~1.1 Å MAE the model reliably separates "same fold" from "divergent
+architecture". It cannot resolve a 0.7 Å difference between close homologues,
+which is exactly what the original five-protein analysis was measuring.
 
 `pdb_all/` holds 140 MB of RCSB coordinates and is gitignored; `fetch_data.py` rebuilds it.
 
