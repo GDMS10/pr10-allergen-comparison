@@ -3,7 +3,8 @@
 Does sequence similarity predict structural similarity among PR-10 plant allergens?
 
 This compares five PR-10 allergens pairwise — percent sequence identity against backbone
-RMSD — and finds that the two measures do not track each other closely.
+RMSD. Ten pairs show a weak negative trend that is not statistically significant, and the
+Pearson correlation depends on a single pair, so the data cannot answer the question either way.
 
 ![Sequence identity vs RMSD](identity_vs_rmsd.png)
 
@@ -56,17 +57,35 @@ conformations, the highest-occupancy position was used.
 
 ## Result
 
-The full table is in [`allergen_comparison.csv`](allergen_comparison.csv). Two pairs make the
-point:
+The full table is in [`allergen_comparison.csv`](allergen_comparison.csv).
+
+| | Pearson r | p | Spearman ρ | p |
+|---|---|---|---|---|
+| all 10 pairs | −0.50 | 0.14 | −0.51 | 0.13 |
+| without Api g 1 – Dau c 1 (celery/carrot) | −0.14 | 0.72 | −0.40 | 0.28 |
+
+Higher identity goes with lower RMSD, but neither correlation is significant at n = 10.
+
+Pearson assumes a straight-line relationship and is sensitive to extreme points; the
+identity–RMSD relationship is known to be curved (Chothia & Lesk, 1986), so Spearman, which
+uses ranks, is reported alongside it. Removing the celery/carrot pair collapses Pearson
+(−0.50 → −0.14) but only weakens Spearman (−0.51 → −0.40): much of the Pearson trend comes from
+that one extreme point.
+
+Two pairs show the disagreement directly:
 
 | Pair | Sequence identity | RMSD |
 |---|---|---|
 | Api g 1 – Dau c 1 (celery/carrot) | 80.3% | **0.69 Å** — most similar structure |
 | Mal d 1 – Pru av 1 (apple/cherry) | **84.8%** — most similar sequence | 2.11 Å |
 
-The most sequence-similar pair is not the most structurally similar. The same disagreement
-appears from birch: Bet v 1 – Api g 1 has lower sequence identity than Bet v 1 – Mal d 1
-(42.5% vs 56.3%) but a lower RMSD (1.49 Å vs 2.11 Å).
+Both are high-identity pairs. They differ in method: celery/carrot is the only X-ray/X-ray
+comparison, and apple/cherry are both NMR structures (see Limitations). So the gap between
+them may come from the method, not the biology.
+
+**Conclusion:** this dataset can neither show that sequence identity predicts structural
+similarity nor that it fails to. Ten pairs from five proteins are too few to decide, and the
+pairs are not independent: each protein appears in four of them.
 
 ## Limitations
 
@@ -76,12 +95,18 @@ appears from birch: Bet v 1 – Api g 1 has lower sequence identity than Bet v 1
   likely methodological rather than biological. Regenerating all five structures with
   AlphaFold would give one uniform method and test this.
 - **Five proteins, one family, ten pairs.** A small sample.
-- **No clinical data.** This shows that two measures disagree; it does not show which one
+- **No clinical data.** Even a clear identity–RMSD relationship would not show which measure
   predicts allergy. Validating that needs cross-reactivity rates from clinical studies.
 - **One isoform each.** Bet v 1 in particular exists as many isoforms that differ in IgE
   reactivity, so these numbers describe specific isoforms, not the allergens in general.
 
 ## Next
+
+- Leave-one-out: remove each pair in turn to see how much the correlation depends on any one.
+- NMR ensembles: measure how much the models within one NMR file differ, compared with the
+  differences between proteins.
+- Scale up: the same comparison across every PR-10 structure in the PDB, with uncertainty
+  estimated by resampling whole proteins rather than pairs.
 
 Epitope-level analysis. `9Y0A` is a crystal structure of Bet v 1 bound to a human IgE Fab, so
 the residues the antibody actually contacts can be measured rather than predicted. The question
@@ -93,8 +118,9 @@ the protein is.
 | File | |
 |---|---|
 | `allergen_functions.py` | the analysis functions |
-| `data_creation.ipynb` | builds `allergen_comparison.csv` from the PDB files |
-| `figure.ipynb` | produces `identity_vs_rmsd.png` |
+| `data_creation.ipynb` | builds `allergen_comparison.csv` and `identity_vs_rmsd.png` from the PDB files |
+| `figure.ipynb` | early plotting practice |
+| `statistics.ipynb` | Pearson and Spearman correlations, with and without the celery/carrot pair |
 | `pdb_files/` | the five structures, as downloaded |
 
 ## Running it
@@ -102,10 +128,10 @@ the protein is.
 ```
 python3 -m venv .venv
 source .venv/bin/activate
-pip install biopython pandas matplotlib seaborn jupyter
+pip install biopython pandas scipy matplotlib seaborn adjustText jupyter
 ```
 
-Then run `data_creation.ipynb` followed by `figure.ipynb`.
+Then run `data_creation.ipynb`, then `statistics.ipynb`.
 
 ## Notes
 
